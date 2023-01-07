@@ -1,0 +1,10 @@
+# Individualised tES
+<h3>Title: Behavioural Validation of low-intensity individualised transcranial electrical stimulation (tES) protocols</h3>
+<h4> Abstract</h4> Large inter-individual variability in the effects of low-intensity transcranial electrical stimulation (tES) considerably limits its potential for clinical applications. It has been recently proposed that individualising stimulation dose by accounting for the inter-individual anatomical differences would reduce the variability in the E-fields over the targeted cortical site and therefore produce more consistent behavioural outcomes. However, improvement in behavioural outcomes following individualised dose tES has never been compared with that of conventional fixed dose tES. In this study, we aimed to empirically evaluate the effect of individualised dose tES on behaviour and further compare it with the effects of sham and fixed dose stimulations. We conducted a single-blind, sham-controlled, repeated-measures study to examine the impact of tDCS on motor learning and that of tACS on the working memory of 42 healthy adult individuals. Each participant underwent three sessions of tES, receiving either fixed-dose, individualised dose, or sham stimulation over the targeted brain region for the entire behavioural task. Our results showed that the individualised dose reduced the variability in the E-fields at the targeted cortical surfaces. However, there was no significant effect of tES on behavioural outcomes. We argue that although the stimulation dose and E-field intensity at the targeted cortical site are linearly correlated, the effect of E-fields on behaviour seems to be more complex. Effective optimisation of tES protocols warrants further research considering both neuroanatomical and functional aspects of behaviour.
+<br>
+<br>
+The experiment was conducted in two parts:<br> 
+<li> Current flow modelling- We used code and pipeline proposed by <a href="https://github.com/caryse/tDCS_dosecontrol">Evans et al., 2020.</a><br>
+<li> Repeated measures sham-controlled tES (Both tDCS and tACS)- The behavioural data was analysed using Python and R.<br>
+ 
+ 
